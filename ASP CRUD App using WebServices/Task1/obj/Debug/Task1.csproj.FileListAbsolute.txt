@@ -1,0 +1,6 @@
+C:\Users\Areeka.BMC\documents\visual studio 2013\Projects\Task1\Task1\bin\Task1.dll.config
+C:\Users\Areeka.BMC\documents\visual studio 2013\Projects\Task1\Task1\bin\Task1.dll
+C:\Users\Areeka.BMC\documents\visual studio 2013\Projects\Task1\Task1\bin\Task1.pdb
+C:\Users\Areeka.BMC\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.dll
+C:\Users\Areeka.BMC\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\Areeka.BMC\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
